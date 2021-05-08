@@ -24,7 +24,7 @@ The summary statistics for the precipitation data were diplayed with Pandas.
 
 The last 12 months of temperature observation data (TOBS) was queried. THe station with the highest number of observations was filtered. The results were ploted in a histogram with `bins=12`.
 
-    ![station-histogram](Images/station-histogram.png)
+    ![station-histogram](fig_histogram.png)
 
 
 ## Step 2 - Climate App
